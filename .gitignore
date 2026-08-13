@@ -1,0 +1,14 @@
+# Android Studio
+.idea/
+.gradle/
+build/
+*/build/
+
+# Local machine configuration
+local.properties
+
+# macOS
+.DS_Store
+
+# Android Studio generated files
+*.iml
